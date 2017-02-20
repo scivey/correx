@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.jar"
+			],
+			"folder_exclude_patterns":
+			[
+				"build",
+				".bin",
+				".env",
+				"node_modules",
+				".cache",
+				"__pycache__",
+				"tmp",
+				".db-data"
+			],
+			"path": "."
+		}
+	]
+}

@@ -1,0 +1,15 @@
+*.sublime-workspace
+tmp
+build
+*.log
+a.out
+*.pyc
+.env
+__pycache__
+.cache
+.tmp
+*~
+tmp2
+.envrc-extra
+.bin
+.db-data
